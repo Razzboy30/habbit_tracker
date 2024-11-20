@@ -1,4 +1,4 @@
-**Habit Tracker**
+**Habit Tracker** <br>
 Welcome to Habit Tracker!
 This application is designed to help users build and maintain habits through tracking, streaks, and interactive calendars. Built with the MERN Stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS, this project provides a seamless and engaging user experience.
 
